@@ -4,7 +4,8 @@ My project is using [https://pokeapi.co/] websites https://pokeapi.co/api/v2/ po
 pokemon information.
 ServerURL: https://floating-waters-42176.herokuapp.com/
 
-
+<br>
+<p>
 An example of the XML reply is:
 {
 "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/132.png",
@@ -60,3 +61,4 @@ An example of the XML reply is:
 "name": "ditto",
 "weight": "40"
 }
+</p>
